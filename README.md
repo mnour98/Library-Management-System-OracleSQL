@@ -22,8 +22,8 @@ Project Files:
  - Title_Update.sql - Updating book status and rental details.  
 
 Team Members:
-Tejvir  
-Roger 
+Tejvir  -
+Roger -
 Mohammad
 
 
